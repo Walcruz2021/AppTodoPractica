@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AppTodoPractica/static/css/main.9a856e95.chunk.css",
+    "main.js": "/AppTodoPractica/static/js/main.9af14e24.chunk.js",
+    "main.js.map": "/AppTodoPractica/static/js/main.9af14e24.chunk.js.map",
+    "runtime-main.js": "/AppTodoPractica/static/js/runtime-main.92d420ce.js",
+    "runtime-main.js.map": "/AppTodoPractica/static/js/runtime-main.92d420ce.js.map",
+    "static/css/2.de424728.chunk.css": "/AppTodoPractica/static/css/2.de424728.chunk.css",
+    "static/js/2.18e79ec3.chunk.js": "/AppTodoPractica/static/js/2.18e79ec3.chunk.js",
+    "static/js/2.18e79ec3.chunk.js.map": "/AppTodoPractica/static/js/2.18e79ec3.chunk.js.map",
+    "index.html": "/AppTodoPractica/index.html",
+    "precache-manifest.8bd2282dbf91d261be6327291ee24436.js": "/AppTodoPractica/precache-manifest.8bd2282dbf91d261be6327291ee24436.js",
+    "service-worker.js": "/AppTodoPractica/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/AppTodoPractica/static/css/2.de424728.chunk.css.map",
+    "static/css/main.9a856e95.chunk.css.map": "/AppTodoPractica/static/css/main.9a856e95.chunk.css.map",
+    "static/js/2.18e79ec3.chunk.js.LICENSE.txt": "/AppTodoPractica/static/js/2.18e79ec3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d420ce.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.18e79ec3.chunk.js",
+    "static/css/main.9a856e95.chunk.css",
+    "static/js/main.9af14e24.chunk.js"
+  ]
+}
